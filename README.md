@@ -4,7 +4,7 @@ A modern, minimal portfolio website featuring a dark theme, glassmorphism effect
 
 ## 🔗 Live Demo
 
-_Add your deployed link here (e.g. GitHub Pages, Vercel, Netlify)_
+dishantpanjiyar.com.np
 
 ## ✨ Features
 
@@ -66,9 +66,9 @@ _Add your deployed link here (e.g. GitHub Pages, Vercel, Netlify)_
 ## 📬 Contact
 
 - Email: [panjiyardishant@gmail.com](mailto:panjiyardishant@gmail.com)
-- GitHub: [github.com/your-username](https://github.com/)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/)
-- Instagram: [@your-handle](https://instagram.com/)
+- GitHub: [github.com/dishantpanjiyar](https://github.com/dishantpanjiyar)
+- LinkedIn: [linkedin.com/in/Dishant-Panjiyar](https://www.linkedin.com/in/dishant-panjiyar-2774b2303/)
+- Instagram: [@dixyan.panjiyar](https://www.instagram.com/dustyscreen_?igsh=azVtdTV3NGQ4bXN1)
 
 ## 📄 License
 
